@@ -119,9 +119,6 @@ body {
 	padding-bottom: 100%;
 
 }
-.nav-item{
-	cursor: pointer;
-}
 .gallery-item {
 	position: absolute;
 	width: 100%;
@@ -245,12 +242,6 @@ form textarea {
 input[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
-}
-
-.footer{
-	text-align: center;
-	font-size: 16px;
-	padding: 20px;
 }
 
 @media all and (max-width: 1180px) {
