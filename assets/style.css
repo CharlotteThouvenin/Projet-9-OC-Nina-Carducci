@@ -6,6 +6,7 @@ body {
 	font-family: 'Inter';
 	font-style: normal;
 }
+
 .top-header {
 	background-color: white;
 	position: sticky;
@@ -84,8 +85,11 @@ body {
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
+	font-size: 16px;
+	
 }
 #about-me p {
+	margin-top: 10px;
 	width: 80%;
 	font-size: 14px;
 }
